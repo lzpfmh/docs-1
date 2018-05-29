@@ -84,6 +84,7 @@
   * 平台介绍
     * [平台简介](rokid-homebase-docs/README.md)
     * [智能家居设备接入流程](rokid-homebase-docs/intro/flow.md)
+    * [智能家居厂商 SDK 接入流程](rokid-homebase-docs/intro/sdk.md)
     * [名词解释](rokid-homebase-docs/intro/glossary.md)
   * 开发指南
     * [云云对接](rokid-homebase-docs/connect/cloud-to-cloud.md)

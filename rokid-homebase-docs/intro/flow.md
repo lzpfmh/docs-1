@@ -11,15 +11,6 @@
 - 向商务申请一台测试的若琪设备；
 - 将测试若琪的 SN 码发给我们，我们会将其加入到开发者环境中；
 
-**注意：**
-
-有些厂商希望在自有 APP 中集成若琪手机 SDK，通过若琪手机 SDK 登录为厂商 APP 用户自动绑定若琪账号，从而实现通过若琪语音控制自有设备的功能。这种情况您需要先在[开放平台](https://developer.rokid.com/)注册一个帐号，并联系我们申请 AppId 和 AppSecrect。
-
-您可以参考以下文档集成若琪手机 SDK：
-
-- [Rokid Mobile SDK IOS 开发指南](https://rokid.github.io/mobile-sdk-ios-docs)
-- [Rokid Mobile SDK Android 开发指南](https://rokid.github.io/mobile-sdk-android-docs)
-
 ### Step 2：开发
 
 不管是云云对接，还是局域网对接，都需要遵循若琪智能家居协议，提供设备搜索接口、设备控制接口、设备状态查询接口（可选）。
