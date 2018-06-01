@@ -61,7 +61,7 @@
 
 **注意：**
 
-自测通过之后，请下载测试用例并按模板填写：[测试用例下载](https://s.rokidcdn.com/homebase/upload/HkOw4tzcf.xlsx)
+自测通过之后，请下载测试用例并按模板填写：[点此下载测试用例](https://s.rokidcdn.com/homebase/upload/HkOw4tzcf.xlsx)
 
 ### Step 4：发布上线
 
