@@ -46,11 +46,11 @@
 ```
 GET /api/trigger-discovery HTTP/1.1
 Host: homebase-openapi.rokid.com
-Authorization: <your-user-token-here-这里填写Step4获取的用户Token>
+Authorization: <your-user-token-here-这里填写通过SDK获取的用户Token>
 Cache-Control: no-cache
 ```
 
-用户 Token 会过期， 发起设备搜索同步接口目前应该放在App内执行
+用户 Token 会过期， 发起设备搜索同步接口推荐放在 App 内执行
 
 
 ### 获得帮助
