@@ -43,6 +43,8 @@
 
 调用这个接口， 我们会发一次用户设备同步
 
+接口地址： `GET https://homebase-openapi.rokid.com/api/trigger-discovery`
+
 ```
 GET /api/trigger-discovery HTTP/1.1
 Host: homebase-openapi.rokid.com
