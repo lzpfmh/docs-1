@@ -39,13 +39,19 @@
 
 例如：
 
-**发起设备搜索**
+** 发起设备搜索 **
+
+调用这个接口， 我们会发一次用户设备同步
+
 ```
 GET /api/trigger-discovery HTTP/1.1
 Host: homebase-openapi.rokid.com
-Authorization: 9A2610CFADA241CB9EC85422C7359CA0
+Authorization: <your-user-token-here-这里填写Step4获取的用户Token>
 Cache-Control: no-cache
 ```
+
+用户 Token 会过期， 发起设备搜索同步接口目前应该放在App内执行
+
 
 ### 获得帮助
 
