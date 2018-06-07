@@ -40,8 +40,12 @@
 例如：
 
 **发起设备搜索**
-
-`GET https://homebase-openapi.rokid.com/api/trigger-discovery`
+```
+GET /api/trigger-discovery HTTP/1.1
+Host: homebase-openapi.rokid.com
+Authorization: 9A2610CFADA241CB9EC85422C7359CA0
+Cache-Control: no-cache
+```
 
 ### 获得帮助
 
